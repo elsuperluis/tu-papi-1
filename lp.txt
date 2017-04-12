@@ -3,7 +3,7 @@
 <title>el nueve colas LR</title>
 </head>
 </body>
-<h1>this is a great!</h1>
+<h1>no llores</h1>
 <img src="cool.jpg">
 <p>this is my sentence.</p>
 </body>
